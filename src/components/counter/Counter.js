@@ -1,5 +1,4 @@
-import React  from "react";
-import react,{useState}from "react";
+import {useState}from "react";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FaMinus } from "react-icons/fa";
